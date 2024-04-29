@@ -2,7 +2,8 @@
 
 **Podcast**
 
-Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO.
+# Este é o repositório desenvolvido durante o Bootcamp Santander
+ DIO.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
